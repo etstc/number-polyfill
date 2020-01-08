@@ -1,0 +1,24 @@
+{
+  "name": "number-polyfill",
+  "version": "0.0.1",
+  "description": "number polyfill",
+  "main": "number-polyfill.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etstc/number-polyfill.git"
+  },
+  "keywords": [
+    "number",
+    "polyfill",
+    "0.1+0.2!=0.3"
+  ],
+  "author": "vipx.o",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etstc/number-polyfill/issues"
+  },
+  "homepage": "https://github.com/etstc/number-polyfill#readme"
+}
